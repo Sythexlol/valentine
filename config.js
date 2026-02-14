@@ -10,7 +10,7 @@ const CONFIG = {
 
     // 💕 Background Settings (YOUR PHOTO)
     background: {
-        image: "YOUR_IMAGE_FILE_NAME.png", // ⚠️ Replace with your actual file name if different
+        image: "h12.jpeg", // ⚠️ Replace with your actual file name if different
         size: "cover",
         position: "center center",
         repeat: "no-repeat",
